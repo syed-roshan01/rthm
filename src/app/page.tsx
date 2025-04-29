@@ -1,17 +1,9 @@
-import Banner from "@/components/Banner";
-import CallToAction from "@/components/CallToAction";
-import AboutProgram from "@/components/AboutProgram";
-import WhySupport from "@/components/WhySupport";
-import HowItWorks from "@/components/HowItWorks";
+import BannerSlider from "@/components/BannerSlider";
 
 export default function Home() {
   return (
     <main>
-      <Banner />
-      <CallToAction />
-      <AboutProgram />
-      <WhySupport />
-      <HowItWorks />
+      <BannerSlider />
     </main>
   );
 }
