@@ -11,12 +11,12 @@ export default function Home() {
   return (
     <main>
       <Navbar />
-      <Banner />
+      {/* <Banner /> */}
       <BannerSlider />
-      <CallToAction />
+      {/* <CallToAction />
       <AboutProgram />
       <WhySupport />
-      <HowItWorks />
+      <HowItWorks /> */}
       
     </main>
   );
