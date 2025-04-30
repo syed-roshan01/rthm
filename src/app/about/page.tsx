@@ -1,5 +1,5 @@
 "use client";
-
+import Head from 'next/head';
 import React from "react";
 import { motion } from "framer-motion";
 import { FaHandsHelping, FaLightbulb, FaHeart, FaUsers } from "react-icons/fa";
